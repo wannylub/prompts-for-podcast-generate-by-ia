@@ -12,7 +12,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Canvay](https://www.canva.com/)
+- [Canva](https://www.canva.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Movavi](https://www.movavi.com/)
 
