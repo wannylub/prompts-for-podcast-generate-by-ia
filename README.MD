@@ -21,7 +21,7 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
 - Canva Para gerar capas
-- Movavi para tratar aúdio e adicionar sons de fundo
+- Movavi para tratar áudio e adicionar sons de fundo
 
 ## 📚 Materiais
 
